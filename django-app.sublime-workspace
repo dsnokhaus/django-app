@@ -1,0 +1,549 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"all",
+				"align-self\tproperty"
+			],
+			[
+				"stdio",
+				"stdio.h\tstandard header"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"Mo",
+				"MovieList\tclass"
+			],
+			[
+				"def",
+				"default\tparam"
+			],
+			[
+				"Integer",
+				"IntegerField\tclass"
+			],
+			[
+				"Text",
+				"TextField\tclass"
+			],
+			[
+				"Char",
+				"CharField\tclass"
+			],
+			[
+				"RATED",
+				"RATED_R"
+			],
+			[
+				"RA",
+				"RATED_PG"
+			],
+			[
+				"scientL",
+				"scientList"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"auth_",
+				"auth_pass"
+			],
+			[
+				"ip",
+				"ip_address"
+			],
+			[
+				"log",
+				"log_str"
+			],
+			[
+				"upp",
+				"upper_decor"
+			],
+			[
+				"in",
+				"input_file"
+			],
+			[
+				"lar",
+				"larg"
+			],
+			[
+				"p_",
+				"p_dir_path"
+			],
+			[
+				"p",
+				"p_bank_handler_list"
+			],
+			[
+				"Csv",
+				"Csv_ynab_handler"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"l",
+				"l_outflow"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"csv",
+				"csvReader"
+			],
+			[
+				"lA",
+				"lArgs"
+			],
+			[
+				"lo",
+				"lOpts"
+			],
+			[
+				"pa",
+				"parseCmdLine"
+			],
+			[
+				"lop",
+				"lOpt"
+			],
+			[
+				"lOp",
+				"lOpts"
+			],
+			[
+				"HEA",
+				"HEADER\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Anaconda: Display object docs",
+				"Anaconda: Display object docs"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git stat",
+				"git: status"
+			],
+			[
+				"Package Control: n",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 262.0,
+		"history":
+		[
+			"clear",
+			"cls",
+			"help",
+			"./cycle",
+			"cycle",
+			"d",
+			"d = 1",
+			"run core.py",
+			"@core",
+			"@core.py",
+			"core.py",
+			"ls -la",
+			"quit()",
+			"version()",
+			"python -V",
+			"ver",
+			"v",
+			"version",
+			"print(\"Hello, %s\")",
+			"print(\"Hello, %s\", name)",
+			"print('Hello, ', name)",
+			"print('Hello, %s', name)",
+			"'Hello, %s' % name",
+			"name = 'Dusan'",
+			"'Hello, %s' % name",
+			"python",
+			"--version",
+			"version",
+			"print(\"test\")",
+			"python readCSVFile.py",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dusansnokhaus/workspace/python.projects/django-app"
+	],
+	"file_history":
+	[
+		"/Users/dusansnokhaus/workspace/node.projects/Bootstrap4/conFusion/package.json",
+		"/Users/dusansnokhaus/workspace/node.projects/Bootstrap4-2/conFusion/index.html",
+		"/Users/dusansnokhaus/workspace/node.projects/Bootstrap4/conFusion/index.html",
+		"/Users/dusansnokhaus/workspace/node.projects/init/index.html",
+		"/Users/dusansnokhaus/workspace/node.projects/init/package.json",
+		"/Users/dusansnokhaus/workspace/html.projects/coursera/html.css.js/fullstack-course/examples/Lecture01/structure-only-after.html",
+		"/Users/dusansnokhaus/workspace/node.projects/init/package-lock.json",
+		"/Users/dusansnokhaus/workspace/coursera/index.htm",
+		"/Users/dusansnokhaus/workspace/coursera/blocks.css",
+		"/Users/dusansnokhaus/workspace/c.projects/hashmap.c/test.c",
+		"/Users/dusansnokhaus/workspace/c.projects/hashmap.c/hashmap.c",
+		"/Users/dusansnokhaus/workspace/c.projects/hashmap.c/hashmap.h",
+		"/Users/dusansnokhaus/workspace/c.projects/hashmap.c/hasmap.sublime-project",
+		"/Users/dusansnokhaus/workspace/c.projects/hashmap.c/LICENSE",
+		"/Users/dusansnokhaus/workspace/c.projects/coursera/hasmap.c",
+		"/Users/dusansnokhaus/workspace/c.projects/coursera/basic.c",
+		"/Users/dusansnokhaus/workspace/python.projects/loc.calculator/src/gitlab-ci.yaml",
+		"/Users/dusansnokhaus/workspace/python.projects/loc.calculator/src/requirements.txt",
+		"/Users/dusansnokhaus/workspace/python.projects/loc.calculator/src/README.md",
+		"/Users/dusansnokhaus/workspace/python.projects/loc.calculator/src/.gitignore",
+		"/Users/dusansnokhaus/workspace/python.projects/loc.calculator/calculator/.gitignore",
+		"/Users/dusansnokhaus/workspace/python.projects/loc.calculator/calculator/README.md",
+		"/Users/dusansnokhaus/workspace/python.projects/docker.test/src/test.py",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/ynabCSVTransform.py",
+		"/Users/dusansnokhaus/workspace/python.projects/docker.test/Dockerfile",
+		"/Users/dusansnokhaus/Disk Google/Kopretina/Schůze vlastníků/Hlasování_PerRollam_202010/plna_moc_onln_hlasovani_202010.mht",
+		"/Users/dusansnokhaus/workspace/loc.equabank.lov.loader/lov_grammar.gr",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/templates/movie_detail.html",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/core/templates/core/movie_list.html",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/core/admin.py",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/mysite/settings.py",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/core/models.py",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/BuildingDjango2.0WebApplications_Code/Chapter01/django/templates/base.html",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/mysite/asgi.py",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/core/templates/movie_list.html",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite.sublime-project",
+		"/Users/dusansnokhaus/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/core/migrations/0001_initial.py",
+		"/Users/dusansnokhaus/Library/Application Support/Sublime Text 3/Packages/User/sublime_jedi.sublime-settings",
+		"/Users/dusansnokhaus/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/core/views.py",
+		"/Users/dusansnokhaus/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/dusansnokhaus/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/dusansnokhaus/Library/Application Support/Sublime Text 3/Packages/Anaconda/anaconda_lib/builder/python_builder.py",
+		"/Users/dusansnokhaus/Library/Application Support/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/manage.py",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/mysite/urls.py",
+		"/Users/dusansnokhaus/workspace/python.projects/django-example/mysite/mysite/wsgi.py",
+		"/Users/dusansnokhaus/workspace/python.projects/rp.functional/main/funct.py",
+		"/Users/dusansnokhaus/workspace/java.projects/primefaces.elearn/pom.xml",
+		"/Users/dusansnokhaus/Downloads/0698OS_Code/README.md",
+		"/Users/dusansnokhaus/Downloads/participants_import-z-cakovice-c-p-939-dne-7-4-2020-11-53.json",
+		"/Users/dusansnokhaus/workspace/html.projects/coursera/html.css.js/fullstack-course/examples/Lecture09/links-internal.html",
+		"/Users/dusansnokhaus/workspace/html.projects/coursera/html.css.js/fullstack-course/examples/Lecture09/links-same-page.html",
+		"/Users/dusansnokhaus/workspace/html.projects/coursera/html.css.js/fullstack-course/examples/Lecture09/links-external.html",
+		"/Users/dusansnokhaus/workspace/html.projects/coursera/html.css.js/fullstack-course/examples/Lecture09/same-directory.html",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.routerInterface/main/router_restart.py",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.routerInterface/cfg/router_intf.json",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.routerInterface/docs/conf.py",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.routerInterface/docs/index.rst",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.routerInterface/docs/Makefile",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.routerInterface/setup.py",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.routerInterface/LICENSE",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.routerInterface/Makefile",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.routerInterface/requirements.txt",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.routerInterface/cz.snekovi.routerInterface.sublime-project",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.routerInterface/main/core.py",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/main/routerRestart.log",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/main/router_restart.py",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/cz.snekovi.python.sublime-project",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/example.log",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/.gitignore",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/venv/lib/python3.6/site-packages/babel/support.py",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/venv/lib/python3.6/site-packages/pip/_vendor/contextlib2.py",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/main/core.py",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/tests/test_advanced.py",
+		"/Users/dusansnokhaus/Library/Application Support/Sublime Text 3/Packages/Anaconda/templates/python_build.tpl",
+		"/Users/dusansnokhaus/BooksData/python-machine-learning-book-2nd-edition/code/ch02/ch02.py",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/LICENSE",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/main/helpers.py",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/tests/test_basic.py",
+		"/Users/dusansnokhaus/Downloads/autopep8-1.3.2/autopep8.py",
+		"/Users/dusansnokhaus/workspace/python.projects/cz.snekovi.python/requirements.txt",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/lib/bank_csv_handler.py",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/lib/ynab_csv_handler.py",
+		"/Users/dusansnokhaus/Downloads/bnk/eqbbu.csv",
+		"/Users/dusansnokhaus/Downloads/bnk/dsnmoneta.csv",
+		"/Users/dusansnokhaus/Downloads/bnk/Pohyby_531533XXXXXX5611_dsn.csv",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/bank_csv_handler.py",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/run.py",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/ynab_csv_handler.py",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/rb_csv_handler.py",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/moneta_csv_handler.py",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/airbank_csv_handler.py",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/readCSVFile.py",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/YnabCSVHandler.py",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/files/result/ynab_moneta.csv",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/files/moneta.csv",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/parseCMDLine.py",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/.gitignore",
+		"/Users/dusansnokhaus/Downloads/Working+With+Text.py.html",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/files/airbank_1002652015_2018-09-14_16-25.csv",
+		"/Users/dusansnokhaus/workspace/python.projects/ynab.parser/main/test.py",
+		"/Users/dusansnokhaus/Downloads/YNABimport.csv",
+		"/Users/dusansnokhaus/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/dusansnokhaus/workspace/html.projects/coursera/database.sql",
+		"/Users/dusansnokhaus/workspace/html.projects/coursera/practising.html",
+		"/Users/dusansnokhaus/Disk Google/Kopretina/Přístupy/VýborovýNB.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 145.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "mybuild",
+	"project": "django-app.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
