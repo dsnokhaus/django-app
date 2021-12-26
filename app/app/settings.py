@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 from pathlib import Path
-from secrets import *
+from decouple import config
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -25,6 +25,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+SECRET_KEY = config('SECRET_KEY', default='django-dev-1234')
 
 # Application definition
 
