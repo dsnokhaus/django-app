@@ -22,6 +22,11 @@ RUN apk del .tmp-deps
 
 RUN adduser --disabled-password --no-create-home app
 
+RUN mkdir -p /vol/web/static
+RUN mkdir -p /vol/web/media
+RUN chown -R app:app /vol
+RUN chmod -R 755 /vol
+
 ENV PATH="/py/bin:$PATH"
 
 USER app
